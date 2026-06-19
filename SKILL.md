@@ -99,8 +99,9 @@ Based on design specification, this skill covers:
 **User input:** "Compare these 3 wildlife conservation volunteer programs for ethical quality."
 
 **Expected output:** Comparative ethical matrix scoring on animal welfare, research legitimacy, local employment, visitor education impact, and transparency — with specific green/yellow/red flags for each and recommended choice with justification.
-
-
+### Scenario 4: 想去尼泊尔做义工旅行
+**User input:** "看到网上有很多尼泊尔义工旅行的项目，就是那种一边旅游一边做公益的，交几千块报名费，靠谱吗？"
+**Expected output:** 评估义工旅行项目的伦理问题：1）警惕'付费义工'陷阱——真正的NGO不会向志愿者收取高额费用，收费项目本质上是商业旅游；2）伦理风险——短期孤儿院义工可能对儿童造成依恋创伤（来了一批又走一批）；3）推荐替代——通过正规国际NGO组织（如UN Volunteers、IVHQ）报名，或者在国内参加'乡村支教'项目更方便（美丽中国、支教中国2.0）。建议优先考虑四川/云南的短期支教，文化壁垒小且费用低。
 
 ## Safety & Limitations
 
